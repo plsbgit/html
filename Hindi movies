@@ -1,0 +1,47 @@
+<html>
+
+<head>
+
+<style>
+
+img {
+
+  img-size:25%;
+
+  box-shadow: 10px 10px 8px;
+
+}
+
+body{
+
+background-image: linear-gradient(#ffafbd, #ffc3a0)
+
+}
+
+</style>
+
+<title>hindi movies</title>
+
+</head>
+
+<body target="section">
+
+<center><table width="80%" border="0" cellpadding="10">
+
+<caption><h2>Hindi Movies list</caption>
+
+<tr>
+
+<td><center><img src="bramhastra.jpeg" width="200" height="250"><br><br><b>Movie name:</b>Brahmastra:Part one-Shiva<br><b>Director:</b>Ayan Mukerji<br><b>Cast:</b>Ranbir Kapoor,Alia Bhatt,<br>Amithab Bhachan,Shah Rukh Khan<br><b>Genre:</b>Fantasy,Adventure<br><b>Duration:</b>2hr47min<br><br><button>Download</button></td>
+
+<td><center><img src="pathaan.jpg" width="200" height="250"><br><br><b>Movie name:</b>Pathaan<br><b>Director:</b>Siddharth Anand<br><b>Cast:</b>Shah Rukh Khan,Deepika Padukone,<br>John Abraham,Salman Khan<br><b>Genre:</b>Action,Thriller<br><b>Duration:</b>2hr26min<br><br><button>Download</button></td>
+
+<td><center><img src="Shershaah.jpg" width="200" height="250"><br><br><b>Movie name:</b>Shershaah<br><b>Director:</b>Vishnuvardan<br><b>Cast:</b>Sidharth Malhotra,Kiara Advani,<br>Shiv Panditt,Nikitin Dheer<br><b>Genre:</b>Action<br><b>Duration:</b>2hr15min<br><br><button>Download</button></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>

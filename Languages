@@ -1,0 +1,29 @@
+<html>
+
+<head>
+
+<title>languages</title>
+
+<h1><center><span style="color:red">Languages</h1>
+
+</head>
+
+<body target="side">
+
+<p style="text_align:left">
+
+<a href="english.html"target="section">English</a></p><br>
+
+<a href="hindi.html"target="section">Hindi</a></p><br>
+
+<a href="telugu.html"target="section">Telugu</a></p><br>
+
+<a href="tamil.html"target="section">Tamil</a></p><br>
+
+<a href="malayalam.html"target="section">Malayalam</a></p><br>
+
+<a href="kannada.html"target="section">Kannada</a></p><br>
+
+</body>
+
+</html>

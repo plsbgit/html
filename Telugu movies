@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+<style>
+
+img {
+
+  box-shadow: 10px 10px 8px;
+
+}
+
+body{
+
+background-image: linear-gradient(#ffafbd, #ffc3a0)
+
+}
+
+</style>
+
+<title>telugu movies</title>
+
+</head>
+
+<body target="section" >
+
+<center><table width="80%" border="0" cellpadding="10">
+
+<caption><h2>Telugu Movies list</caption>
+
+<tr>
+
+<td><center><img src="bahubali.jpg" width="200" height="250"><br><br><b>Movie name:</b>Bahubali:The beginning<br><b>Director:</b>SS.Rajamouli<br><b>Cast:</b>Prabhas,Anushka Shetty<br>Tamanna Bhatia,Rana Daggubati<br><b>Genre:</b>Action,War<br><b>Duration:</b>2hr38min<br><br><button>Download</button></td>
+
+<td><center><img src="sr.jpg" width="200" height="250"><br><br><b>Movie name:</b>Sita Ramam<br><b>Director:</b>Hanu Raghavapudi<br><b>Cast:</b>Dulquer Salmaan,Mrunal Thakur,<br>Rashmika Mandana,Sumanth<br><b>Genre:</b>Romance,Costume Drama<br><b>Duration:</b>2hr43min<br><br><button>Download</button></td>
+
+<td><center><img src="pushpa.jpg" width="200" height="250"><br><br><b>Movie name:</b>Pushpa:The Rise<br><b>Director:</b>Sukumar<br><b>Cast:</b>Allu Arjun,Rashmika Mandana,<br>Fahadh Faasil,Sunil<br><b>Genre:</b>Action,Crime<br><b>Duration:</b>2hr59min<br><br><button>Download</button></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>

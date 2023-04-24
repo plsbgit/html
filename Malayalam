@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+<style>
+
+img {
+
+  box-shadow: 10px 10px 8px;
+
+}
+
+body{
+
+background-image: linear-gradient(#ffafbd, #ffc3a0);
+
+}
+
+</style>
+
+<title>malayalam movies</title>
+
+</head>
+
+<body target="section">
+
+<center><table width="80%" border="0" cellpadding="10">
+
+<caption><h2>Malayalam Movies list</caption>
+
+<tr>
+
+<td><center><img src="hridayam.jpeg" width="200" height="250"><br><br><b>Movie name:</b>hridayam<br><b>Director:</b>vineeth sreenivasan<br><b>Cast:</b>pranav mohanlal,kalyani priyadarshan<br><b>Genre:</b>romance,drama<br><b>Duration:</b>2hr51min<br><br><button>Download</button></td>
+
+<td><center><img src="okkanmani1.jpeg" width="200" height="250"><br><br><b>Movie name:</b>ok kanmani<br><b>Director:mani ratnam</b><b>Cast:</b>Dulquer Salmaan,nitya menon<br><b>Genre:</b>Romance,Drama<br><b>Duration:</b>2hr19min<br><br><button>Download</button></td>
+
+<td><center><img src="christopher.jpeg" width="200" height="250"><br><br><b>Movie name:</b>christopher<br><b>Director:</b>Unnikrishnan<br><b>Cast:</b>mammothy,aishwarya lakshmi<b>Genre:</b>Action,Thriller<br><b>Duration:</b>2hr30min<br><br><button>Download</button></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>

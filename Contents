@@ -1,0 +1,37 @@
+<html>
+
+<head>
+
+<title>Contents</title>
+
+</head>
+
+<center><table width="80%" cellpadding="10" border="1">
+
+<tr>
+
+<td><center><span style='font-size:100px;'>&#127916;</span></td>
+
+<th colspan="4"><img src="movie.jpeg" height="100" width="400"></th>
+
+</tr>
+
+<tr>
+
+<td><a href="lang.html"target="side">home</a></td>
+
+<td><a href="login.html" target="section">login</a></td>
+
+<td><a href="regform.html" target="section">Registration</a></td>
+
+<td><a href="downloads.html" target="section">Downloads</a></td>
+
+<td><a href="wthlst.html" target="section">wish list</a></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>

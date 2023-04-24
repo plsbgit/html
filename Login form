@@ -1,0 +1,71 @@
+<html>
+
+<head><title>Login</title></head>
+
+<style>
+
+fieldset{
+
+    width:20%;
+
+	height:50%;	border-top-width:4px;
+
+	border-left-width:4px;
+
+	border-right-width:6px;
+
+	border-bottom-width:2px;
+
+	
+
+	border-color:blue;
+
+	}
+
+	h1{
+
+	font-family:sans-serif;
+
+	}
+
+	button{
+
+	background-color:powderblue;
+
+	height:12%;
+
+	width:50%;
+
+	}
+
+	body{
+
+		background-image: url('mve.jpg');}
+
+    fieldset{
+
+	    background-color:white;
+
+</style>
+
+<center><fieldset>
+
+<body>
+
+<h1><center>Login Form</h1>
+
+Email:<input size="20" type="text" ><br><br>
+
+Password:<input size="20" type="password">
+
+<a href="#">Forgot Password?</a><br><br>
+
+<button>login</button><br>
+
+Not a member?<a href="regform.html">Signup now</a>
+
+</fieldset>
+
+</body>
+
+</html>

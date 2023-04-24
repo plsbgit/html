@@ -1,0 +1,19 @@
+<html>
+
+<head>
+
+<title>movies</title>
+
+</head>
+
+<frameset rows="30%,*">
+
+<frame src="exp.html"/>
+
+<frameset cols="15%,*">
+
+<frame name="side"/>
+
+<frame name="section" src="login.html"/>
+
+</frameset>

@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+<style>
+
+img {
+
+  box-shadow: 10px 10px 8px;
+
+}
+
+body{
+
+background-image: linear-gradient(#ffafbd, #ffc3a0)
+
+}
+
+</style>
+
+<title>tamil movies</title>
+
+</head>
+
+<body target="section">
+
+<center><table width="80%" border="0" cellpadding="10">
+
+<caption><h2>Tamil Movies list</caption>
+
+<tr>
+
+<td><center><img src="master.jpeg" width="200" height="250"><br><br><b>Movie name:</b>Master<br><b>Director:</b>lokesh kaanagaraj<br><b>Cast:</b>vijay,malavika mohanan<br><b>Genre:</b>action,thriller<br><b>Duration:</b>2hr59min<br><br><button>Download</button></td>
+
+<td><center><img src="lovetoday.jpeg" width="200" height="250"><br><br><b>Movie name:</b>Love today<br><b>Director:Pradeep ranganathan</b><b>Cast:</b>pradeep ranganathan,Ivana<br><b>Genre:</b>Romance,romantic comedy<br><b>Duration:</b>2h34min<br><br><button>Download</button></td>
+
+<td><center><img src="vikram.jpeg" width="200" height="250"><br><br><b>Movie name:</b>Vikram<br><b>Director:</b>lokesh kanagaraj<br><b>Cast:</b>kamal hassan,shivani narayan<b>Genre:</b>Action,Mystery<br><b>Duration:</b>2hr54min<br><br><button>Download</button></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>

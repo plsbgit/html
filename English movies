@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+<style>
+
+img {
+
+  box-shadow: 10px 10px 8px;
+
+}
+
+body{
+
+background-image: linear-gradient(#ffafbd, #ffc3a0)
+
+}
+
+</style>
+
+<title>english movies</title>
+
+</head>
+
+<body target="section">
+
+<center><table width="80%" border="0" cellpadding="10">
+
+<caption><h2>English Movies list</caption>
+
+<tr>
+
+<td><center><img src="avatar.jpg" width="200" height="250"><br><br><b>Movie name:</b>Avatar<br><b>Director:</b>James Cameron<br><b>Cast:</b>Zoe Saldana,Sam Worthington,<br>Sigourney Weaver,Michelle Rodriguez<br><b>Genre:</b>Science fiction<br><b>Duration:</b>2hr42min<br><br><button>Download</button></td>
+
+<td><center><img src="titanic.jpeg" width="200" height="250"><br><br><b>Movie name:</b>Titanic<br><b>Director:</b>James Cameron<br><b>Cast:</b>Leonardo DiCaprio,Kate Winslet,<br>Billy Zane,Kathy Bates,Frances Fisher<br><b>Genre:</b>Romance,disaster<br><b>Duration:</b>3hr14min<br><br><button>Download</button></td>
+
+<td><center><img src="inception.jpg" width="200" height="250"><br><br><b>Movie name:</b>Inception<br><b>Director:</b>Chirstopher nolan<br><b>Cast:</b>Leonardo DiCaprio,Ken Watanabe,<br>Joseph Gordon-Levitt,Marion Cotillord<br><b>Genre:</b>Science fiction<br><b>Duration:</b>2hr42min<br><br><button>Download</button></td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
